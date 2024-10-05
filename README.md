@@ -13,8 +13,7 @@
 
 <span id="sobre">
 
-<<<<<<< HEAD
-# :bookmark_tabs: Sobre o projeto
+## :bookmark_tabs: Sobre o projeto
 
 Em parceria com a empresa Visiona, o projeto visa desenvolver uma aplicação mobile integrada à computação em nuvem, com foco no mapeamento automático de nuvens e sombras de nuvens em imagens capturadas pelo sensor WPM, a bordo do satélite CBERS4A. Essa aplicação tem como objetivo fornecer máscaras de nuvens de alta precisão para as imagens adquiridas, facilitando o monitoramento e a análise de diversas áreas de interesse no Brasil.
 
@@ -23,36 +22,17 @@ Em parceria com a empresa Visiona, o projeto visa desenvolver uma aplicação mo
 A ausência de máscaras de nuvens nas imagens do satélite CBERS4A/WPM limita a capacidade de análise de grandes volumes de imagens em áreas extensas, especialmente em regiões tropicais com alta cobertura de nuvens. Quando realizado manualmente, esse processo é custoso e demorado, dificultando a automação de procedimentos em aplicações que exigem alta precisão e eficiência.
 
 ## :white_check_mark: Proposta de Solução
-=======
-## :bookmark_tabs: Sobre o projeto
-
-Em parceria com a empresa Visiona, o projeto visa desenvolver uma aplicação mobile integrada à computação em nuvem, com foco no mapeamento automático de nuvens e sombras de nuvens em imagens capturadas pelo sensor WPM, a bordo do satélite CBERS4A. Essa aplicação tem como objetivo fornecer máscaras de nuvens de alta precisão para as imagens adquiridas, facilitando o monitoramento e a análise de diversas áreas de interesse no Brasil.
-
-### :warning: Problemática
-
-A ausência de máscaras de nuvens nas imagens do satélite CBERS4A/WPM limita a capacidade de análise de grandes volumes de imagens em áreas extensas, especialmente em regiões tropicais com alta cobertura de nuvens. Quando realizado manualmente, esse processo é custoso e demorado, dificultando a automação de procedimentos em aplicações que exigem alta precisão e eficiência.
-
-### :white_check_mark: Proposta de Solução
->>>>>>> 8483d16166ba574667aae42cdebe3a9edb6f8bc9
 
 Desenvolvimento de um serviço e uma aplicação mobile em nuvem que automatiza o mapeamento de nuvens e sombras de nuvens em imagens do satélite CBERS4A/WPM, utilizando modelos de Deep Learning. A solução permitirá a definição de área e período de interesse, acesso às imagens correspondentes, mapeamento automático de nuvens e sombras, visualização dos resultados em uma interface de mapas, e download das máscaras em formato vetorial. Isso tornará o processo de análise mais eficiente, preciso e acessível para os usuários.
 
 :pushpin: Status do Projeto: **🚧 Em andamento**
 
-<<<<<<< HEAD
 ## 🏁 Entregas de Sprints
-=======
-### 🏁 Entregas de Sprints
->>>>>>> 8483d16166ba574667aae42cdebe3a9edb6f8bc9
 
 Cada entrega será realizada a partir da criação de uma **tag** em cada repositório (Front, Back), além da criação de uma branch no repositório da documentação com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
 | Sprint | Previsão de entrega | Status | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-<<<<<<< HEAD
 | 01 | 29/09/2024 | ✔️ Concluída| [Ver relatório](https://github.com/noCloud-Visiona/documentation/releases/tag/SPRINT_1) |
-=======
-| 01 | 29/09/2024 | ✔️ Concluída| [Ver relatório]() |
->>>>>>> 8483d16166ba574667aae42cdebe3a9edb6f8bc9
 | 02 | 20/10/2024 | 🚧 Em andamento| [Ver relatório]() |
 | 03 | 10/11/2024 | 🛑 Não iniciada| [Ver relatório]() |
 | 04 | 01/12/2023 | 🛑 Não iniciada| [Ver relatório]() |
@@ -64,7 +44,6 @@ Cada entrega será realizada a partir da criação de uma **tag** em cada reposi
 
 <span id="backlogs">
 
-<<<<<<< HEAD
 # :dart: Backlogs, Épicos & User Stories
 
 <div>
@@ -128,19 +107,12 @@ Cada entrega será realizada a partir da criação de uma **tag** em cada reposi
 | US09     | Usuário Comum      | Visualizar as imagens georreferenciadas no mapa       | Para identificar a localização exata das imagens analisadas.    |
 | US10     | Administrador      | Fazer deploy da aplicação                             | Para disponibilizar a aplicação ao público de forma estável.    |
 
-=======
-## :dart: Backlogs, Épicos & User Stories
-
-<div align="center">
-   🚧 Em andamento
->>>>>>> 8483d16166ba574667aae42cdebe3a9edb6f8bc9
 </div>
 
 → [Voltar ao topo](#topo)
 
 <span id="tecnologias">
 
-<<<<<<< HEAD
 # 🛠️ Tecnologias
 
 Linguagens, bibliotecas e tecnologias utilizadas na construção do projeto:
@@ -159,23 +131,12 @@ Linguagens, bibliotecas e tecnologias utilizadas na construção do projeto:
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-=======
-## 🛠️ Tecnologias
-
-Linguagens, Frameworks e tecnologias utilizadas na construção do projeto:
-
-🚧 Em andamento
->>>>>>> 8483d16166ba574667aae42cdebe3a9edb6f8bc9
 
 → [Voltar ao topo](#topo)
 
 <span id="equipe">
 
-<<<<<<< HEAD
 # :busts_in_silhouette: Equipe
-=======
-## :busts_in_silhouette: Equipe
->>>>>>> 8483d16166ba574667aae42cdebe3a9edb6f8bc9
 
 |    Função     | Nome                           |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :----------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -190,7 +151,6 @@ Linguagens, Frameworks e tecnologias utilizadas na construção do projeto:
 
 <span id="links">
 
-<<<<<<< HEAD
 # :link: Links úteis
 
 - [Repositório Frontend](https://github.com/noCloud-Visiona/frontend)
@@ -198,13 +158,6 @@ Linguagens, Frameworks e tecnologias utilizadas na construção do projeto:
 - [Repositórios Backend:]()
   - [Cadastro-Autenticação](https://github.com/noCloud-Visiona/controller-cadastro-autenticacao)
   - [Identificação IA](https://github.com/noCloud-Visiona/controller-identificacao-ia)
-=======
-## :link: Links úteis
-
-- [Repositório Frontend](https://github.com/noCloud-Visiona/frontend)
-
-- [Repositório Backend](https://github.com/noCloud-Visiona/backend)
->>>>>>> 8483d16166ba574667aae42cdebe3a9edb6f8bc9
 
 - [Fatec "Profº Jessen Vidal" SJCampos](https://fatecsjc-prd.azurewebsites.net/)
 
