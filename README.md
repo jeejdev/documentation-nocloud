@@ -33,9 +33,9 @@ Cada entrega será realizada a partir da criação de uma **tag** em cada reposi
 | Sprint | Previsão de entrega | Status | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
 | 01 | 29/09/2024 | ✔️ Concluída| [Ver relatório](https://github.com/noCloud-Visiona/documentation/releases/tag/SPRINT_1) |
-| 02 | 20/10/2024 | 🚧 Em andamento| [Ver relatório]() |
-| 03 | 10/11/2024 | 🛑 Não iniciada| [Ver relatório]() |
-| 04 | 01/12/2023 | 🛑 Não iniciada| [Ver relatório]() |
+| 02 | 20/10/2024 | ✔️ Concluída| [Ver relatório]() |
+| 03 | 10/11/2024 | ✔️ Concluída| [Ver relatório](https://github.com/noCloud-Visiona/documentation/releases/tag/SPRINT_3) |
+| 04 | 01/12/2023 | 🚧 Em andamento| [Ver relatório]() |
 
 <!--# 🚧 Em andamento -->
 <!--# ✔️ Concluída -->
@@ -158,6 +158,8 @@ Linguagens, bibliotecas e tecnologias utilizadas na construção do projeto:
 - [Repositórios Backend:]()
   - [Cadastro-Autenticação](https://github.com/noCloud-Visiona/controller-cadastro-autenticacao)
   - [Identificação IA](https://github.com/noCloud-Visiona/controller-identificacao-ia)
+
+- [Repositório Banco de Dados](https://github.com/noCloud-Visiona/controller-firebase)
 
 - [Fatec "Profº Jessen Vidal" SJCampos](https://fatecsjc-prd.azurewebsites.net/)
 
