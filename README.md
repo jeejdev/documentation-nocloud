@@ -153,13 +153,13 @@ Linguagens, bibliotecas e tecnologias utilizadas na construção do projeto:
 
 # :link: Links úteis
 
-- [Repositório Frontend](https://github.com/noCloud-Visiona/frontend)
+- [Repositório Frontend](https://github.com/jeejdev/frontend-nocloud)
 
 - [Repositórios Backend:]()
-  - [Cadastro-Autenticação](https://github.com/noCloud-Visiona/controller-cadastro-autenticacao)
-  - [Identificação IA](https://github.com/noCloud-Visiona/controller-identificacao-ia)
+  - [Cadastro-Autenticação](https://github.com/jeejdev/controller-cadastro-autenticacao-nocloud)
+  - [Identificação IA](https://github.com/jeejdev/controller-identificacao-ia-nocloud)
 
-- [Repositório Banco de Dados](https://github.com/noCloud-Visiona/controller-firebase)
+- [Repositório Banco de Dados](https://github.com/jeejdev/controller-firebase-nocloud)
 
 - [Fatec "Profº Jessen Vidal" SJCampos](https://fatecsjc-prd.azurewebsites.net/)
 
